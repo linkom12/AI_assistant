@@ -88,7 +88,8 @@
 ## Пример общения с клиентом
 - ![Иллюстрация к проекту](https://github.com/linkom12/AI_assistant/blob/main/Снимок%20экрана%202025-05-29%20174600.png?raw=true)
 - ![Иллюстрация к проекту](https://github.com/linkom12/AI_assistant/blob/main/Снимок%20экрана%202025-05-29%20174622.png?raw=true)
+- ![Иллюстрация к проекту](https://github.com/linkom12/AI_assistant/blob/main/Снимок%20экрана%202025-05-29%20175011.png?raw=true)
 - ![Иллюстрация к проекту](https://github.com/linkom12/AI_assistant/blob/main/Снимок%20экрана%202025-05-29%20175033.png?raw=true)
 - ![Иллюстрация к проекту](https://github.com/linkom12/AI_assistant/blob/main/Снимок%20экрана%202025-05-29%20175139.png?raw=true)
 - ![Иллюстрация к проекту](https://github.com/linkom12/AI_assistant/blob/main/Снимок%20экрана%202025-05-29%20175153.png?raw=true)
-- ![Иллюстрация к проекту]()
+
